@@ -9,6 +9,8 @@ sites:
     url: https://www.whathomework.ch
   - name: What Homework App
     url: https://app.whathomework.ch
+  - name: What Homework API
+    url: https://app.whathomework.ch/api/ping
 
 assignees:
   - FormulaRossa
