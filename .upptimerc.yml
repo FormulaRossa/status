@@ -9,6 +9,8 @@ sites:
     url: https://www.whathomework.ch
   - name: What Homework App
     url: https://app.whathomework.ch
+  - name: Offline
+    url: https://example.notexisting
 
 assignees:
   - FormulaRossa
