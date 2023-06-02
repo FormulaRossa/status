@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "time": 273,
+    "timeDay": 273,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1060,
-    "timeDay": 1060,
-    "timeWeek": 1060,
-    "timeMonth": 1060,
-    "timeYear": 1060,
+    "time": 1068,
+    "timeDay": 1068,
+    "timeWeek": 1068,
+    "timeMonth": 1068,
+    "timeYear": 1068,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 732,
-    "timeWeek": 732,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "time": 776,
+    "timeDay": 776,
+    "timeWeek": 776,
+    "timeMonth": 776,
+    "timeYear": 776,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Offline",
+    "url": "https://example.notexisting",
+    "icon": "https://icons.duckduckgo.com/ip3/example.notexisting.ico",
+    "slug": "offline",
+    "status": "down",
+    "uptime": "6.32%",
+    "uptimeDay": "6.32%",
+    "uptimeWeek": "6.32%",
+    "uptimeMonth": "6.32%",
+    "uptimeYear": "6.32%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   }
 ]
