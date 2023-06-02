@@ -22,7 +22,7 @@ status-website:
   cname: status.leanschuler.ch
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/FormulaRossa/status/master/assets/logo.png
-  favicon: https://raw.githubusercontent.com/FormulaRossa/status/master/assets/
+  favicon: https://raw.githubusercontent.com/FormulaRossa/status/master/assets/logo.png
   name: Status
   theme: light
   introTitle: "Welcome to Lean Schuler's status page!"
