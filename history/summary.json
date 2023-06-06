@@ -40,27 +40,29 @@
     "url": "https://app.whathomework.ch",
     "icon": "https://icons.duckduckgo.com/ip3/app.whathomework.ch.ico",
     "slug": "what-homework-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 705,
     "timeDay": 540,
     "timeWeek": 705,
     "timeMonth": 705,
     "timeYear": 705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-06": 2
+    }
   },
   {
     "name": "What Homework API",
     "url": "https://app.whathomework.ch/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/app.whathomework.ch.ico",
     "slug": "what-homework-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 276,
     "timeMonth": 276,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   }
 ]
