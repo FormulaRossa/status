@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 156,
-    "timeWeek": 263,
-    "timeMonth": 289,
-    "timeYear": 282,
+    "time": 278,
+    "timeDay": 142,
+    "timeWeek": 253,
+    "timeMonth": 286,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -22,36 +22,40 @@
     "url": "https://www.whathomework.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.whathomework.ch.ico",
     "slug": "what-homework-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 679,
-    "timeWeek": 918,
-    "timeMonth": 850,
-    "timeYear": 864,
-    "dailyMinutesDown": {}
+    "time": 859,
+    "timeDay": 648,
+    "timeWeek": 910,
+    "timeMonth": 839,
+    "timeYear": 859,
+    "dailyMinutesDown": {
+      "2023-07-04": 1
+    }
   },
   {
     "name": "What Homework App",
     "url": "https://app.whathomework.ch",
     "icon": "https://icons.duckduckgo.com/ip3/app.whathomework.ch.ico",
     "slug": "what-homework-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 506,
-    "timeWeek": 735,
+    "time": 715,
+    "timeDay": 575,
+    "timeWeek": 722,
     "timeMonth": 714,
-    "timeYear": 718,
-    "dailyMinutesDown": {}
+    "timeYear": 715,
+    "dailyMinutesDown": {
+      "2023-07-04": 0
+    }
   },
   {
     "name": "What Homework API",
@@ -64,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 303,
-    "timeWeek": 275,
-    "timeMonth": 280,
-    "timeYear": 277,
+    "time": 276,
+    "timeDay": 241,
+    "timeWeek": 268,
+    "timeMonth": 277,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   }
 ]
