@@ -22,9 +22,9 @@
     "url": "https://www.whathomework.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.whathomework.ch.ico",
     "slug": "what-homework-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 913,
     "timeMonth": 847,
     "timeYear": 861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-06": 0
+    }
   },
   {
     "name": "What Homework App",
@@ -49,7 +51,7 @@
     "time": 717,
     "timeDay": 766,
     "timeWeek": 727,
-    "timeMonth": 723,
+    "timeMonth": 722,
     "timeYear": 717,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 277,
     "timeDay": 311,
     "timeWeek": 270,
-    "timeMonth": 277,
+    "timeMonth": 278,
     "timeYear": 277,
     "dailyMinutesDown": {}
   }
