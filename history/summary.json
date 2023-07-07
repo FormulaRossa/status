@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 163,
-    "timeWeek": 239,
-    "timeMonth": 284,
+    "timeDay": 280,
+    "timeWeek": 223,
+    "timeMonth": 285,
     "timeYear": 276,
     "dailyMinutesDown": {}
   },
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.whathomework.ch.ico",
     "slug": "what-homework-homepage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 862,
-    "timeDay": 784,
-    "timeWeek": 909,
-    "timeMonth": 849,
-    "timeYear": 862,
-    "dailyMinutesDown": {
-      "2023-07-06": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 868,
+    "timeDay": 1014,
+    "timeWeek": 917,
+    "timeMonth": 866,
+    "timeYear": 868,
+    "dailyMinutesDown": {}
   },
   {
     "name": "What Homework App",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 766,
-    "timeWeek": 727,
-    "timeMonth": 722,
-    "timeYear": 717,
+    "time": 719,
+    "timeDay": 796,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 719,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 311,
-    "timeWeek": 270,
-    "timeMonth": 278,
-    "timeYear": 277,
+    "time": 276,
+    "timeDay": 237,
+    "timeWeek": 272,
+    "timeMonth": 275,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   }
 ]
