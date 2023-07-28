@@ -1,7 +1,7 @@
 url: https://app.whathomework.ch/api/ping
-status: up
-code: 200
-responseTime: 172
-lastUpdated: 2023-07-28T14:08:25.380Z
+status: down
+code: 503
+responseTime: 497
+lastUpdated: 2023-07-28T14:39:25.555Z
 startTime: Fri Jun 02 2023 21:22:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
