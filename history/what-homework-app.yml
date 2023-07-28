@@ -1,7 +1,7 @@
 url: https://app.whathomework.ch
-status: up
-code: 200
-responseTime: 753
-lastUpdated: 2023-07-28T13:30:27.401Z
+status: down
+code: 503
+responseTime: 734
+lastUpdated: 2023-07-28T14:39:20.326Z
 startTime: Fri Jun 02 2023 11:29:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
