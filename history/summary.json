@@ -22,9 +22,9 @@
     "url": "https://www.whathomework.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.whathomework.ch.ico",
     "slug": "what-homework-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 932,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2023-07-28": 1,
       "2023-07-25": 16
     }
   },
@@ -44,7 +45,7 @@
     "slug": "what-homework-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +54,9 @@
     "timeWeek": 698,
     "timeMonth": 729,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   },
   {
     "name": "What Homework API",
