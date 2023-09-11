@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.leanschuler.ch.ico",
     "slug": "lean-schuler",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 280,
-    "timeDay": 153,
-    "timeWeek": 253,
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 281,
+    "timeDay": 200,
+    "timeWeek": 260,
     "timeMonth": 296,
-    "timeYear": 280,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-09-11": 15
+      "2023-09-11": 0
     }
   },
   {
