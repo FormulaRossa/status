@@ -6,7 +6,7 @@
     "slug": "lean-schuler",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 283,
     "timeMonth": 308,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-11": 0
+    }
   },
   {
     "name": "What Homework Homepage",
@@ -43,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.whathomework.ch.ico",
     "slug": "what-homework-app",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.02%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.71%",
     "time": 715,
     "timeDay": 420,
     "timeWeek": 610,
